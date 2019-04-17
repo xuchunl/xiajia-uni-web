@@ -122,6 +122,10 @@
                 "navigationBarTitleText": "充币"
             }
         }
+        ,{
+            "path" : "pages/taocan/taocan",
+            "style" : {}
+        }
     ],
     "globalStyle": {
         "backgroundTextStyle": "light",
@@ -135,25 +139,25 @@
         "list": [
             {
                 "pagePath": "pages/home/main",
-                "text": "首页",
+                "text": "套餐",
                 "iconPath": "static/icon/home.png",
                 "selectedIconPath": "static/icon/home-active.png"
             },
             {
                 "pagePath": "pages/quotation/main",
-                "text": "行情",
+                "text": "品牌馆",
                 "iconPath": "static/icon/quotations.png",
                 "selectedIconPath": "static/icon/quotations-active.png"
             },
             {
                 "pagePath": "pages/trade/main",
-                "text": "交易",
+                "text": "购物车",
                 "iconPath": "static/icon/trade.png",
                 "selectedIconPath": "static/icon/trade-active.png"
             },
             {
                 "pagePath": "pages/assets/main",
-                "text": "资产",
+                "text": "我的",
                 "iconPath": "static/icon/asset.png",
                 "selectedIconPath": "static/icon/asset-active.png"
             }
